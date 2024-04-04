@@ -38,7 +38,7 @@ for i in range(0, 7):
 print(images)
 
 hangman = 0
-lists = ["GEEKS", "GFG", "DOCKER", "DEVELOPER", "RUST", "GITHUB", "R", "PYTHON", "BASH"]
+lists = ["TESTE", "JAVA", "DOCKER", "DEVELOPER", "MERDA", "GITHUB", "R", "PYTHON", "BASH"]
 words = random.choice(lists)
 guessed = []  # to track the letters we have guessed
 
